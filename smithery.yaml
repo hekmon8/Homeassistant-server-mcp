@@ -1,0 +1,30 @@
+# Smithery configuration file: https://smithery.ai/docs/config#smitheryyaml
+
+startCommand:
+  type: stdio
+  configSchema:
+    # JSON Schema defining the configuration options for the MCP.
+    type: object
+    required:
+      - haToken
+    properties:
+      haUrl:
+        type: string
+        default: http://localhost:8123
+        description: Home Assistant instance URL
+      haToken:
+        type: string
+        description: Home Assistant long-lived access token
+  commandFunction:
+    # A JS function that produces the CLI command based on the given config to start the MCP on stdio.
+    |-
+    (config) => ({
+      command: 'homeassistant-server',
+      env: {
+        HA_URL: config.haUrl || '',
+        HA_TOKEN: config.haToken
+      }
+    })
+  exampleConfig:
+    haUrl: http://localhost:8123
+    haToken: abcdef1234567890abcdef1234567890abcdef

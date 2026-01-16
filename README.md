@@ -1,5 +1,13 @@
 # Home Assistant MCP Server
 
+## Sponsors
+
+| Sponsor | Link |
+|---------|------|
+| Product Dirs | [productdirs.com](https://productdirs.com) |
+| This Tools | [thistools.app](https://thistools.app) |
+| AI Image Combiner | [aiimgcombiner.com](https://aiimgcombiner.com) |
+
 [![smithery badge](https://smithery.ai/badge/@hekmon8/Homeassistant-server-mcp)](https://smithery.ai/server/@hekmon8/Homeassistant-server-mcp)
 
 A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.

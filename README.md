@@ -2,11 +2,11 @@
 
 ## Sponsors
 
-| Sponsor | Link |
-|---------|------|
-| Product Dirs | [productdirs.com](https://productdirs.com) |
-| This Tools | [thistools.app](https://thistools.app) |
-| AI Image Combiner | [aiimgcombiner.com](https://aiimgcombiner.com) |
+| Sponsor | Description | Link |
+|---------|-------------|------|
+| Product Dirs | Free AI SaaS directory listing platform | [productdirs.com](https://productdirs.com) |
+| This Tools | Free AI SaaS directory listing platform | [thistools.app](https://thistools.app) |
+| AI Image Combiner | Free AI-powered image composition tool | [aiimgcombiner.com](https://aiimgcombiner.com) |
 
 [![smithery badge](https://smithery.ai/badge/@hekmon8/Homeassistant-server-mcp)](https://smithery.ai/server/@hekmon8/Homeassistant-server-mcp)
 

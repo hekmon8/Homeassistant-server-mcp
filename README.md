@@ -2,6 +2,14 @@
 
 [![smithery badge](https://smithery.ai/badge/@hekmon8/Homeassistant-server-mcp)](https://smithery.ai/server/@hekmon8/Homeassistant-server-mcp)
 
+## 🌟 Sponsors
+
+| Website | Description |
+|---------|-------------|
+| [**ProductDirs.com**](https://productdirs.com) | AI Tools Directory & Launch Platform - Free submission service for discovering and promoting AI SaaS products, startups, and developer tools with community-driven rankings |
+| [**ThisTools.app**](https://thistools.app) | AI SaaS Discovery Platform - Free listing directory for artificial intelligence software, automation tools, and productivity applications with curated collections |
+| [**AIImgCombiner.com**](https://aiimgcombiner.com) | AI-Powered Image Fusion Tool - Free online service for merging and combining photos using artificial intelligence with preset styles and custom prompts for professional results |
+
 A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 <a href="https://glama.ai/mcp/servers/io8m0yc5wq">
